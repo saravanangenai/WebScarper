@@ -1,10 +1,6 @@
 """
 Simple AI Web Scraper
 ======================
-Based on: "How to Build a Simple AI Web Scraper with Python" (KDnuggets, Aug 2026)
-by Abid Ali Awan.
-https://www.kdnuggets.com/how-to-build-a-simple-ai-web-scraper-with-python
-
 Pipeline:
     1. fetch_page()            -> download raw HTML from a URL
     2. clean_html()             -> strip out noisy tags/elements from the HTML

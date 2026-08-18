@@ -4,9 +4,6 @@ A simple AI-powered web scraper that fetches a webpage, strips out the noise
 (nav bars, popups, scripts, ads), converts what's left to Markdown, and asks
 an LLM to answer a question using only that page's content.
 
-Based on: ["How to Build a Simple AI Web Scraper with Python"](https://www.kdnuggets.com/how-to-build-a-simple-ai-web-scraper-with-python)
-(KDnuggets, Aug 2026) by Abid Ali Awan.
-
 ## How it works
 
 The pipeline in [ai_web_scraper.py](ai_web_scraper.py) runs in four steps:
